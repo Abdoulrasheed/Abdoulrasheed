@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**Abdoulrasheed/Abdoulrasheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Bitsms**
+- 🌱 I’m currently mastering **AWS Services**
+- 💬 Ask me about: 
+  - DevOps
+  - Django / Flask
+  - ReactJs / React Native
+- 📫 How to reach me: **the usual, my mail [AbdulrasheedIbrahim47](mailto:abdulrasheedibrahim47@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
+- ⚡ Fun fact: **_During your lifetime, you will produce enough saliva to fill two swimming pools._**
+- :telephone_receiver: let's connect on:
+  - [LinkedIn](https://www.linkedin.com/in/abdulrasheed-ibrahim-2b3a90103/)
+  - [Twitter](https://twitter.com/Aiibrahim3)
