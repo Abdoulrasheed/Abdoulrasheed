@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently mastering **AWS Services**
+- 🌱 currently mastering **AWS Services**
 - 💬 Ask me about: 
   - DevOps
   - Django / Flask
