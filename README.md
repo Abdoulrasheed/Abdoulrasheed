@@ -1,6 +1,5 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on **Bitsms**
 - 🌱 I’m currently mastering **AWS Services**
 - 💬 Ask me about: 
   - DevOps
