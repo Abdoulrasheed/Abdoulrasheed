@@ -1,5 +1,3 @@
-### Hi there 👋 
-
 - 🌱 currently mastering **AWS Services**
 - 💬 Ask me about: 
   - DevOps
