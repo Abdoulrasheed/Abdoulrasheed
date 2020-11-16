@@ -1,6 +1,6 @@
-- 🌱 currently mastering **AWS Services**
-- 💬 Ask me about: 
-  - DevOps
+- 🌱 currently building more DevOps skills
+- 💬 Ask me about:
+  - Cloud / Serverless
   - Django / Flask
   - ReactJs / React Native
 - 📫 mail me: **[AbdulrasheedIbrahim47](mailto:abdulrasheedibrahim47@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
