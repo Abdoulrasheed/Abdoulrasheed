@@ -1,5 +1,5 @@
-- 🌱 currently building more DevOps skills
-- 💬 Ask me about:
+- 🌱 An Astrophile.
+- 💬 Good at:
   - Cloud / Serverless
   - Django / Flask
   - ReactJs / React Native
