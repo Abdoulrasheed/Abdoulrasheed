@@ -1,8 +1,10 @@
 - 🌱 An Astrophile.
-- 💬 Good at:
-  - Cloud / Serverless
-  - Django / Flask
-  - ReactJs / React Native
+- 💬 Strong at:
+  - Javascript
+  - React Native
+  - Python Programming
+  - Data Science and Machine Learning
+  
 - 📫 mail me: **[AbdulrasheedIbrahim47](mailto:abdulrasheedibrahim47@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
 - :telephone_receiver: let's connect:
   - [LinkedIn](https://www.linkedin.com/in/abdulrasheed-ibrahim-2b3a90103/)
