@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: #22272E">
   
 # Salam 👋
 
